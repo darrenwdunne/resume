@@ -1,0 +1,37 @@
+DARREN W. DUNNE
+(919)524-8451 - darrenwdunne@gmail.com - linkedin.com/in/darrenwdunne - dwdunne.com
+PROFESSIONAL EXPERIENCE
+Software Development Release Manager | IBM | Raleigh, NC | 2012-Present
+Managing 2 Development Scrum teams simultaneously with 18 members in 4 countries for the Netcool Operations Insight (NOI), Tivoli Business Service Manager (TBSM), and Tivoli Netcool/Impact products.
+- Introducing Agile Development to the teams, reducing time to deliver releases by 80% (from 18 months to 3 months).
+- Embedding QA and technical writers into the Agile scrums. This reduced the number of defects found in the field by 30%, and dramatically improved morale, eliminating the “Us vs. Them” feelings that had developed over the years.
+- Enforcing stricter quality standards, reducing allowable defects in releases from 200 to fewer than 10.
+- Pioneering Scrum verification of Internationalization (i18n) and Accessibility (a11y), achieving 100% coverage.
+- Leading the adoption of Open Source, eliminating "Not Invented Here" sentiments in development and management.
+- Recruiting, training and mentoring team members from diverse backgrounds, geographic areas, and expertise.
+ScrumMaster-Chief Programmer-Senior Software Engineer | IBM | Raleigh, NC | 2006-2012
+Led 16 programmers in the design, development and release of 4 major multi-year releases of Impact and TBSM,
+delivering all releases on schedule, with all quality targets achieved.
+- Served as Lead of the Scrum of Scrums for 4 separate Scrum teams (Front-End, Back-End, Install and Tools), identifying, managing and resolving all cross-scrum dependencies.
+- Immediately following a Project Manager reorganization, volunteered to take point on 2 major projects which were behind schedule. With my 6 months of leadership, both shipped on schedule, with their full feature sets implemented.
+- Moved to Continuous Delivery model, increasing build and automated verification from once a week to 4 times a day across 5 operating systems, dramatically reducing the time to identify and resolve defects.
+- Created and maintained over 100 internal wiki pages and tutorials to quickly get new developers on board, as well as to share best practices, tips and techniques among the experienced developers.
+- Reduced developers’ onboarding time from 2 weeks to 1 hour by automatically creating dev environment VMs.
+- Administrated and personally verified pull requests on 2 code repositories, spanning 1.6 million lines of code.
+Front-End Development Team Lead | IBM | Raleigh, NC | 2001 - 2006 
+Led 12 developers in the design and implementation of a new cross-platform Java-based user interface for TBSM.
+- Consolidated 4 separate DVD-based console installations, into a single, downloadable Java Web Start UI.
+- Instituted monthly customer reviews and usability testing for new features, incorporating feedback into the designs.
+- Created and enforced UI / UX standards, working closely across teams to ensure a coherent cross-product experience.
+- Increased developer productivity by creating the first internal Development Wiki.
+Front-End Developer | IBM | Raleigh, NC | 1996 - 2001
+- Developed the tools and instrumented 100% of the UI code to enable automated verification of the user interface.
+- Designed and implemented tools to automatically identify and report i18n violations.
+EDUCATION
+- B.S. Computer Science - Southern Methodist University (SMU) - Dallas, TX
+SKILLS
+- Excellent Written and Verbal Communication Skills, Time and Project Management Skills.
+- Programming Languages: Experience with JavaScript, Java, HTML. Exposure to Python, C, C++.
+- Technologies: Experience with CSS, Sass, Bootstrap, JSON, Mobile Development with Responsive Web Design, AJAX/REST. Exposure to jQuery, AngularJS, Virtualization (VMWare and AWS).
+- Development Tools: Experience with Git, GitHub, Eclipse, Grunt, Gulp, Microsoft Visual Studio Code, Ant, Rational Application Developer (RAD), Rational Team Concert (RTC), Rational AppScan, Microsoft Project, Yeoman. Operating Systems: Experience with UNIX, Linux, Red Hat RHEL, Windows, Mac OS X.
+           
